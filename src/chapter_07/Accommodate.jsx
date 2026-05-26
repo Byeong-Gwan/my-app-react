@@ -1,7 +1,7 @@
 'use client'
 
-import { useState, useEffect } from "react";
-import useCounter from "./useCounter";
+import { useState, useEffect } from 'react';
+import useCounter from './useCounter';
 
 const MAX_CAPACITY = 10;
 
